@@ -917,7 +917,7 @@
         .attr("height", "40px");
       drawLoaderIcon();
 
-      d3.tsv('profile_3055218_data.tsv',
+      d3.tsv('blob/gh-pages/profile_3055218_data.tsv',
         function(d, i) {
             return {
               id: i,
@@ -971,7 +971,7 @@
           turnOnMouseHandlers();
       });
 
-      d3.tsv('profile_3055218_processor.tsv',
+      d3.tsv('blob/gh-pages/profile_3055218_processor.tsv',
           function(d) {
             return {
               level: d.level,
