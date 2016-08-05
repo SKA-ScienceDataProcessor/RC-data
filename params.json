@@ -1,0 +1,6 @@
+{
+  "name": "Rc-data",
+  "tagline": "We transpose 8192x8192 matrix of doubles on Wilkes",
+  "body": "[### Job 3055218. Distributed. 16 nodes, 1 CPU per node.](https://github.com/SKA-ScienceDataProcessor/RC/blob/master/MS7/profiles/profile_3055218.html)\r\n\r\n### Job 3055426. Distributed. 16 nodes, 1 CPU per node.\r\n\r\n### Job 3055624. SMP. 1 node, 8 CPUs per node.\r\n\r\n### Job 3055626. SMP. 1 node, 8 CPUs per node. ",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
